@@ -2,7 +2,7 @@ require('dotenv').config()
 const express = require('express')
 const app = express()
 const {
-    PORT = 4000
+    PORT = 2000
 }
 process.env
 
